@@ -34,7 +34,7 @@ nav {
   justify-content: space-around;
 }
 .button {
-  background-color: whitesmoke;
+  background-color: rgb(184, 242, 177);
   padding: 2px 8px;
   border-radius: 75px;
   text-decoration-color: black;
@@ -42,7 +42,7 @@ nav {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
 }
 p {
-  background-color: aqua;
+  background-color: aquamarine;
   margin: 20px;
 }
 .main {
