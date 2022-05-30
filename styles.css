@@ -26,8 +26,8 @@ h3 {
 }
 
 nav {
-  gap: 10px;
-  margin: 10px;
+  gap: 5px;
+  margin: 5px;
   display: flex;
   align-items: center;
   flex-flow: row wrap;
@@ -36,7 +36,7 @@ nav {
 .button {
   background-color: rgb(184, 242, 177);
   padding: 2px 8px;
-  border-radius: 75px;
+  border-radius: 50px;
   text-decoration-color: black;
   color: black;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
